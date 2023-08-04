@@ -1,0 +1,3927 @@
+#EXTM3U
+<tv source-data-url="xmltv.dtd" source-info-name="ProgramadorX Midd98" source-info-url="https://iptv.programadorx.cl">
+<channel id="1">
+<display-name>EGEEK1</display-name>
+<url>https://www.energeek.cl/</url>
+<icon src="https://storage.ko-fi.com/cdn/useruploads/0b7581e4-8b93-495c-acac-18a954dff5bc.png"/>
+</channel>
+<channel id="2">
+<display-name>EGEEK2</display-name>
+<url>https://www.energeek.cl/</url>
+<icon src="https://www.coolstreaming.us/img/ch/ima32115728874.jpg"/>
+</channel>
+<channel id="3">
+<display-name>EGEEK3</display-name>
+<url>https://www.energeek.cl/</url>
+<icon src="https://pbs.twimg.com/media/FOqg477XsAYGqiO.jpg"/>
+</channel>
+<channel id="15">
+<display-name>EGEEKR</display-name>
+<url>https://www.energeek.cl/</url>
+<icon src="https://www.coolstreaming.us/img/ch/ima5800942285.jpg"/>
+</channel>
+<channel id="7">
+<display-name>TVN</display-name>
+<url>https://www.tvn.cl/</url>
+<icon src="https://pbs.twimg.com/profile_images/1311599733174140928/ZYWb4LcD_400x400.png"/>
+</channel>
+<channel id="5">
+<display-name>UCV</display-name>
+<url>https://www.ucv.cl/</url>
+<icon src="https://ucvtv.cl/imagenes/logo-ucv-facebookshare.png"/>
+</channel>
+<channel id="9">
+<display-name>MEGA</display-name>
+<url>https://www.mega.cl/</url>
+<icon src="https://static-mega.cdn.mdstrm.com/_common/images/logo-mega-square.png"/>
+</channel>
+<channel id="14">
+<display-name>STGO</display-name>
+<url>https://www.stgo.cl/</url>
+<icon src="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ce97b9a907e38ff32f_stgotv.png"/>
+</channel>
+<channel id="13.cl">
+<display-name>CANAL 13</display-name>
+<url>https://www.13.cl/</url>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_13_2018.svg"/>
+</channel>
+<channel id="4">
+<display-name>LA RED</display-name>
+<url>https://www.lared.cl/</url>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png"/>
+</channel>
+<channel id="6">
+<display-name>UCV2</display-name>
+<url>https://www.ucv.cl/</url>
+<icon src="https://live.staticflickr.com/4369/36954324350_fe4fdf3340_m.jpg"/>
+</channel>
+<channel id="8">
+<display-name>TV CHILE</display-name>
+<url>https://www.tvn.cl/</url>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logotipo_de_TV_Chile_%282016-2020%29.svg/1200px-Logotipo_de_TV_Chile_%282016-2020%29.svg.png"/>
+</channel>
+<channel id="10">
+<display-name>NTV</display-name>
+<url>https://www.tvn.cl/</url>
+<icon src="https://pbs.twimg.com/profile_images/1423321482860670982/Iu842f5F_400x400.jpg"/>
+</channel>
+<channel id="11">
+<display-name>CHV</display-name>
+<url>https://www.chv.cl/</url>
+<icon src="https://pbs.twimg.com/profile_images/1542872780940754946/tXIAYkCd_400x400.jpg"/>
+</channel>
+<channel id="12">
+<display-name>CHVN</display-name>
+<url>https://www.chv.cl/</url>
+<icon src="https://www.chilevision.cl/chilevision/imag/default/default_450x574.png"/>
+</channel>
+<channel id="101556">
+<display-name>TV Educa Chile</display-name>
+</channel>
+<channel id="101700">
+<display-name>Rewind TV</display-name>
+</channel>
+<channel id="103795">
+<display-name>CEAC TV</display-name>
+</channel>
+<channel id="45166">
+<display-name> Pintana TV</display-name>
+</channel>
+<channel id="104452">
+<display-name>CSTV</display-name>
+</channel>
+<channel id="104809">
+<display-name>Tele2 Web</display-name>
+</channel>
+<channel id="103887">
+<display-name>Jetix</display-name>
+</channel>
+<channel id="102498">
+<display-name>Toonizaki</display-name>
+</channel>
+<channel id="79021">
+<display-name>TALTAL TV HD Peliculas</display-name>
+</channel>
+<channel id="101839">
+<display-name>Radio Cuarentena</display-name>
+</channel>
+<channel id="101692">
+<display-name>CinePlus</display-name>
+</channel>
+<channel id="101463">
+<display-name>WOW TV</display-name>
+</channel>
+<channel id="104432">
+<display-name>ACS Network</display-name>
+</channel>
+<channel id="104433">
+<display-name>Telered</display-name>
+</channel>
+<channel id="101462">
+<display-name>Mi TV Televisión Clásica</display-name>
+</channel>
+<channel id="75709">
+<display-name>Retro Plus TV</display-name>
+</channel>
+<channel id="101693">
+<display-name>Retro TV Palmares</display-name>
+</channel>
+<channel id="101694">
+<display-name>Pantalla Clasica</display-name>
+</channel>
+<channel id="95519">
+<display-name>Rec Online</display-name>
+</channel>
+<channel id="96701">
+<display-name>Frecuencia Musical TV</display-name>
+</channel>
+<channel id="104767">
+<display-name>Frecuencia Musical TV 2</display-name>
+</channel>
+<channel id="96699">
+<display-name>Orbit TV</display-name>
+</channel>
+<channel id="79022">
+<display-name>TALTAL TV Animacion</display-name>
+</channel>
+<channel id="45105">
+<display-name> Cachipum TV Series</display-name>
+</channel>
+<channel id="102655">
+<display-name>Dreiko TV</display-name>
+</channel>
+<channel id="93920">
+<display-name>Boing</display-name>
+</channel>
+<channel id="47417">
+<display-name>Locomotion</display-name>
+</channel>
+<channel id="102623">
+<display-name>El 3 de Conce</display-name>
+</channel>
+<channel id="102651">
+<display-name>Pichilemu TV</display-name>
+</channel>
+<channel id="102985">
+<display-name>Exprezion TV</display-name>
+</channel>
+<channel id="104441">
+<display-name>La Perla del Norte</display-name>
+</channel>
+<channel id="76271">
+<display-name>Canal 10 ARTV</display-name>
+</channel>
+<channel id="45126">
+<display-name>TVN</display-name>
+</channel>
+<channel id="45122">
+<display-name> CHV</display-name>
+</channel>
+<channel id="96814">
+<display-name>Canal 13</display-name>
+</channel>
+<channel id="45129">
+<display-name>TV+</display-name>
+</channel>
+<channel id="45123">
+<display-name>la red</display-name>
+</channel>
+<channel id="45124">
+<display-name>Mega</display-name>
+</channel>
+<channel id="95386">
+<display-name>13c</display-name>
+</channel>
+<channel id="104280">
+<display-name>Rec TV</display-name>
+</channel>
+<channel id="102737">
+<display-name>TXS Radio</display-name>
+</channel>
+<channel id="68737">
+<display-name>STGO.TV</display-name>
+</channel>
+<channel id="45161">
+<display-name>UCV 3</display-name>
+</channel>
+<channel id="78412">
+<display-name>Campus TV</display-name>
+</channel>
+<channel id="47415">
+<display-name>TVU</display-name>
+</channel>
+<channel id="79753">
+<display-name>Ufrovision</display-name>
+</channel>
+<channel id="45163">
+<display-name>Universidad Autonoma TV</display-name>
+</channel>
+<channel id="96811">
+<display-name>U Los Lagos</display-name>
+</channel>
+<channel id="79755">
+<display-name>UMAG TV</display-name>
+</channel>
+<channel id="97664">
+<display-name>UMAG TV 2</display-name>
+</channel>
+<channel id="45162">
+<display-name> UesTV </display-name>
+</channel>
+<channel id="96323">
+<display-name>Teletón TV</display-name>
+</channel>
+<channel id="98881">
+<display-name>HiperTV</display-name>
+</channel>
+<channel id="102522">
+<display-name>GINX e-Sports</display-name>
+</channel>
+<channel id="104268">
+<display-name>NASA TV</display-name>
+</channel>
+<channel id="97807">
+<display-name>Control.VG TV (desde las 00:30 hrs)</display-name>
+</channel>
+<channel id="90570">
+<display-name>TV Salud</display-name>
+</channel>
+<channel id="95116">
+<display-name>Campo Abierto TV</display-name>
+</channel>
+<channel id="96812">
+<display-name>Arab TV</display-name>
+</channel>
+<channel id="98915">
+<display-name>CEAC TV (Respaldo)</display-name>
+</channel>
+<channel id="45125">
+<display-name> TV Senado</display-name>
+</channel>
+<channel id="45120">
+<display-name> Cámara de Diputados</display-name>
+</channel>
+<channel id="93249">
+<display-name>CNN Chile</display-name>
+</channel>
+<channel id="84048">
+<display-name>TVN 24 Horas</display-name>
+</channel>
+<channel id="45130">
+<display-name>TVN 24 Horas 2</display-name>
+</channel>
+<channel id="79045">
+<display-name>Meganoticias</display-name>
+</channel>
+<channel id="45133">
+<display-name> T13 Móvil</display-name>
+</channel>
+<channel id="93284">
+<display-name>Poder Judicial</display-name>
+</channel>
+<channel id="68904">
+<display-name>EMOL TV</display-name>
+</channel>
+<channel id="99563">
+<display-name>Arcatel</display-name>
+</channel>
+<channel id="45139">
+<display-name> Arica TV </display-name>
+</channel>
+<channel id="79750">
+<display-name>Cappissima Multimedial TV</display-name>
+</channel>
+<channel id="94188">
+<display-name>Puerta Norte</display-name>
+</channel>
+<channel id="45138">
+<display-name>Antofagasta TV</display-name>
+</channel>
+<channel id="45137">
+<display-name>AM Canal</display-name>
+</channel>
+<channel id="60296">
+<display-name>Holvoet TV</display-name>
+</channel>
+<channel id="79754">
+<display-name>Atacama TV</display-name>
+</channel>
+<channel id="83961">
+<display-name>Canal Costa TV</display-name>
+</channel>
+<channel id="77106">
+<display-name>Enfoque Digital TV</display-name>
+</channel>
+<channel id="83650">
+<display-name>Desierto TV</display-name>
+</channel>
+<channel id="97598">
+<display-name>Madero TV</display-name>
+</channel>
+<channel id="45156">
+<display-name> ThemaTV </display-name>
+</channel>
+<channel id="103351">
+<display-name>TV Elqui</display-name>
+</channel>
+<channel id="79760">
+<display-name>TV2 Choapa</display-name>
+</channel>
+<channel id="97665">
+<display-name>Tele 8 Illapel</display-name>
+</channel>
+<channel id="98988">
+<display-name>La Popular TV</display-name>
+</channel>
+<channel id="84121">
+<display-name>Quinta TV</display-name>
+</channel>
+<channel id="45164">
+<display-name>Canal VTV Los Andes - San Felipe</display-name>
+</channel>
+<channel id="45165">
+<display-name> VTV Viña del Mar </display-name>
+</channel>
+<channel id="83635">
+<display-name>Estudio TV</display-name>
+</channel>
+<channel id="98883">
+<display-name>Canal de la Costa</display-name>
+</channel>
+<channel id="79761">
+<display-name>Girovisual TV</display-name>
+</channel>
+<channel id="45140">
+<display-name> Canal 2 de San Antonio </display-name>
+</channel>
+<channel id="84989">
+<display-name>Canal 74 TeVe</display-name>
+</channel>
+<channel id="96907">
+<display-name>VoxPopuli Chile</display-name>
+</channel>
+<channel id="84923">
+<display-name>TV El Central</display-name>
+</channel>
+<channel id="90569">
+<display-name>Tendencias TV</display-name>
+</channel>
+<channel id="45128">
+<display-name> TVR</display-name>
+</channel>
+<channel id="95117">
+<display-name>TU Canal TV Colina</display-name>
+</channel>
+<channel id="96318">
+<display-name>Buin Somos Todos</display-name>
+</channel>
+<channel id="101853">
+<display-name>Telecanal Santa Cruz</display-name>
+</channel>
+<channel id="45159">
+<display-name> TVO San Vicente </display-name>
+</channel>
+<channel id="79752">
+<display-name>Sextavision</display-name>
+</channel>
+<channel id="95385">
+<display-name>TVR Canal 11</display-name>
+</channel>
+<channel id="103801">
+<display-name>Telecanal Talca</display-name>
+</channel>
+<channel id="45148">
+<display-name>Contivisión</display-name>
+</channel>
+<channel id="79756">
+<display-name>UTV San Clemente</display-name>
+</channel>
+<channel id="94106">
+<display-name>Nativa TV</display-name>
+</channel>
+<channel id="84016">
+<display-name>VLTV</display-name>
+</channel>
+<channel id="45145">
+<display-name>Canal 5 Linares</display-name>
+</channel>
+<channel id="81742">
+<display-name>TV Maulinos</display-name>
+</channel>
+<channel id="45157">
+<display-name>TV Centro</display-name>
+</channel>
+<channel id="45142">
+<display-name> Canal 21 Chillán </display-name>
+</channel>
+<channel id="45136">
+<display-name> Estacion TV</display-name>
+</channel>
+<channel id="98981">
+<display-name>ClickTv</display-name>
+</channel>
+<channel id="97652">
+<display-name>ClickTv (Respaldo)</display-name>
+</channel>
+<channel id="102019">
+<display-name>Restaurando Vidas TV</display-name>
+</channel>
+<channel id="45146">
+<display-name>Canal 9 Bío Bío TV</display-name>
+</channel>
+<channel id="47414">
+<display-name>TV8</display-name>
+</channel>
+<channel id="81743">
+<display-name>Canal 11 de Cabrero</display-name>
+</channel>
+<channel id="79763">
+<display-name>TV4</display-name>
+</channel>
+<channel id="79762">
+<display-name>Teleangol Radio</display-name>
+</channel>
+<channel id="79764">
+<display-name>Pucon TV</display-name>
+</channel>
+<channel id="84122">
+<display-name>Temuco TV</display-name>
+</channel>
+<channel id="96702">
+<display-name>TecTV</display-name>
+</channel>
+<channel id="62025">
+<display-name>LTV canal</display-name>
+</channel>
+<channel id="45151">
+<display-name> Inet TV </display-name>
+</channel>
+<channel id="97666">
+<display-name>Canal Latino 54</display-name>
+</channel>
+<channel id="97675">
+<display-name>Osorno TV+</display-name>
+</channel>
+<channel id="79765">
+<display-name>Decima TV</display-name>
+</channel>
+<channel id="79747">
+<display-name>Canal 5 Puerto Montt</display-name>
+</channel>
+<channel id="45141">
+<display-name> Canal 2 Quellón </display-name>
+</channel>
+<channel id="74297">
+<display-name>Fresia TV</display-name>
+</channel>
+<channel id="81736">
+<display-name>Canal Survisión Alerce</display-name>
+</channel>
+<channel id="79749">
+<display-name>Canal Chilote</display-name>
+</channel>
+<channel id="100379">
+<display-name>Chiloe Red 25</display-name>
+</channel>
+<channel id="79751">
+<display-name>Canal 11 TV Aysen</display-name>
+</channel>
+<channel id="79759">
+<display-name>Santa Maria TV</display-name>
+</channel>
+<channel id="79766">
+<display-name>Rocco TV 4</display-name>
+</channel>
+<channel id="84585">
+<display-name>Soberania Radio</display-name>
+</channel>
+<channel id="45152">
+<display-name> ITV Patagonia </display-name>
+</channel>
+<channel id="45154">
+<display-name> PinguinoTV </display-name>
+</channel>
+<channel id="45160">
+<display-name>TVRed Punta Arenas</display-name>
+</channel>
+<channel id="81741">
+<display-name>TV Chile</display-name>
+</channel>
+<channel id="96282">
+<display-name>TV Publica</display-name>
+</channel>
+<channel id="102483">
+<display-name>Net TV</display-name>
+</channel>
+<channel id="102481">
+<display-name>Canal Capital</display-name>
+</channel>
+<channel id="83648">
+<display-name>Canal IPE</display-name>
+</channel>
+<channel id="83637">
+<display-name>Telesur</display-name>
+</channel>
+<channel id="83647">
+<display-name>TV Marti</display-name>
+</channel>
+<channel id="101997">
+<display-name>Cubavisión</display-name>
+</channel>
+<channel id="83646">
+<display-name>Zee Mundo</display-name>
+</channel>
+<channel id="83643">
+<display-name>Arirang</display-name>
+</channel>
+<channel id="83638">
+<display-name>CGTN Español</display-name>
+</channel>
+<channel id="83641">
+<display-name>DW Español</display-name>
+</channel>
+<channel id="83636">
+<display-name>ETB</display-name>
+</channel>
+<channel id="83645">
+<display-name>RTVE1</display-name>
+</channel>
+<channel id="96977">
+<display-name>Antena 3 Internacional</display-name>
+</channel>
+<channel id="83644">
+<display-name>RTVE24</display-name>
+</channel>
+<channel id="96666">
+<display-name>TV Galicia America</display-name>
+</channel>
+<channel id="83642">
+<display-name>Rai Premium</display-name>
+</channel>
+<channel id="83639">
+<display-name>France 24</display-name>
+</channel>
+<channel id="96261">
+<display-name>DW Deutsch</display-name>
+</channel>
+<channel id="45108">
+<display-name> CDO Play</display-name>
+</channel>
+<channel id="97669">
+<display-name>CDO</display-name>
+</channel>
+<channel id="90632">
+<display-name>Garage TV</display-name>
+</channel>
+<channel id="84845">
+<display-name>TV Turf Movil</display-name>
+</channel>
+<channel id="79757">
+<display-name>Valparaiso Sporting</display-name>
+</channel>
+<channel id="45106">
+<display-name> Teletrak HD</display-name>
+</channel>
+<channel id="104101">
+<display-name>Retro Music Television</display-name>
+</channel>
+<channel id="102525">
+<display-name>Trace Latina</display-name>
+</channel>
+<channel id="102526">
+<display-name>Trace Urban</display-name>
+</channel>
+<channel id="103056">
+<display-name>Trace Toca</display-name>
+</channel>
+<channel id="102528">
+<display-name>Exa TV</display-name>
+</channel>
+<channel id="103357">
+<display-name>TuTv Quillota</display-name>
+</channel>
+<channel id="45111">
+<display-name> Carolina TV</display-name>
+</channel>
+<channel id="100762">
+<display-name>Natural TV</display-name>
+</channel>
+<channel id="67425">
+<display-name>DJ Loncho TV</display-name>
+</channel>
+<channel id="95520">
+<display-name>Mix 247 TV</display-name>
+</channel>
+<channel id="98217">
+<display-name>Ibiza Global TV</display-name>
+</channel>
+<channel id="45103">
+<display-name>Contivisión Musica </display-name>
+</channel>
+<channel id="45116">
+<display-name> Portal FoxMix</display-name>
+</channel>
+<channel id="80111">
+<display-name>Alegria TV</display-name>
+</channel>
+<channel id="78105">
+<display-name>RUIDOS TV</display-name>
+</channel>
+<channel id="80098">
+<display-name>Maxima FM</display-name>
+</channel>
+<channel id="47360">
+<display-name>TV vconline.cl</display-name>
+</channel>
+<channel id="98929">
+<display-name>RadioTV.pro</display-name>
+</channel>
+<channel id="96280">
+<display-name>TOP Latino TV</display-name>
+</channel>
+<channel id="96700">
+<display-name>Telemusica</display-name>
+</channel>
+<channel id="97300">
+<display-name>On Radio Kpop</display-name>
+</channel>
+<channel id="94803">
+<display-name> Zona Play Radio</display-name>
+</channel>
+<channel id="96787">
+<display-name>Radio Riquelme TV</display-name>
+</channel>
+<channel id="100523">
+<display-name>Radio Zeta</display-name>
+</channel>
+<channel id="98873">
+<display-name>Radio Actitud</display-name>
+</channel>
+<channel id="98219">
+<display-name>Radio Más</display-name>
+</channel>
+<channel id="101231">
+<display-name>ChocolateFM</display-name>
+</channel>
+<channel id="98218">
+<display-name>CCP Radio</display-name>
+</channel>
+<channel id="99469">
+<display-name>Celula Radio</display-name>
+</channel>
+<channel id="98186">
+<display-name>Radio Touch</display-name>
+</channel>
+<channel id="98872">
+<display-name>Mi Radio TV</display-name>
+</channel>
+<channel id="100528">
+<display-name>FM Pulso</display-name>
+</channel>
+<channel id="102073">
+<display-name>El Sembrador</display-name>
+</channel>
+<channel id="102656">
+<display-name>Red Fueguina Radio</display-name>
+</channel>
+<channel id="100529">
+<display-name>Radio Ritmo FM</display-name>
+</channel>
+<channel id="100527">
+<display-name>Radio Universal</display-name>
+</channel>
+<channel id="100524">
+<display-name>Radio Fiessta</display-name>
+</channel>
+<channel id="100525">
+<display-name>Orocoipo</display-name>
+</channel>
+<channel id="100526">
+<display-name>Radio Sabor Tropical</display-name>
+</channel>
+<channel id="91378">
+<display-name>Radio Polar</display-name>
+</channel>
+<channel id="97299">
+<display-name>On Radio Chile</display-name>
+</channel>
+<channel id="95360">
+<display-name>Beat TV</display-name>
+</channel>
+<channel id="98866">
+<display-name>Radio Cosmos</display-name>
+</channel>
+<channel id="79801">
+<display-name>AncoaTV</display-name>
+</channel>
+<channel id="97670">
+<display-name>Radio Hoy</display-name>
+</channel>
+<channel id="97667">
+<display-name>Preludio TV</display-name>
+</channel>
+<channel id="97668">
+<display-name>Radio Las Nieves</display-name>
+</channel>
+<channel id="97671">
+<display-name>Radio Chiloe</display-name>
+</channel>
+<channel id="95361">
+<display-name>Radio Camila TV</display-name>
+</channel>
+<channel id="96698">
+<display-name>InterRadio TV</display-name>
+</channel>
+<channel id="96696">
+<display-name>Radio Genial TV</display-name>
+</channel>
+<channel id="97673">
+<display-name>Radio Presidente Ibañez</display-name>
+</channel>
+<channel id="76351">
+<display-name>En La Noticia Radio</display-name>
+</channel>
+<channel id="97672">
+<display-name>Radio Fantasia TV</display-name>
+</channel>
+<channel id="91376">
+<display-name>AE Radio</display-name>
+</channel>
+<channel id="92611">
+<display-name>Pura Noticia</display-name>
+</channel>
+<channel id="96703">
+<display-name>Interamericana TV</display-name>
+</channel>
+<channel id="95388">
+<display-name>Radio Favorita</display-name>
+</channel>
+<channel id="95389">
+<display-name>Futura TV</display-name>
+</channel>
+<channel id="95391">
+<display-name>Radio Rancagua</display-name>
+</channel>
+<channel id="94606">
+<display-name>Maulina FM</display-name>
+</channel>
+<channel id="97674">
+<display-name>Radio X</display-name>
+</channel>
+<channel id="96706">
+<display-name>El Conquistador TV</display-name>
+</channel>
+<channel id="96320">
+<display-name>Radio Portales</display-name>
+</channel>
+<channel id="96788">
+<display-name>Radio Via Libre</display-name>
+</channel>
+<channel id="74165">
+<display-name>Bio Bio TV</display-name>
+</channel>
+<channel id="91382">
+<display-name> Radio Cooperativa</display-name>
+</channel>
+<channel id="91381">
+<display-name>Radio Agricultura</display-name>
+</channel>
+<channel id="45134">
+<display-name> ADN </display-name>
+</channel>
+<channel id="83832">
+<display-name>Pauta</display-name>
+</channel>
+<channel id="91380">
+<display-name>Radio Infinita</display-name>
+</channel>
+<channel id="45135">
+<display-name> Futuro TV</display-name>
+</channel>
+<channel id="91379">
+<display-name>Radio Romantica</display-name>
+</channel>
+<channel id="91383">
+<display-name>Radio Candela</display-name>
+</channel>
+<channel id="95387">
+<display-name>Pudahuel FM</display-name>
+</channel>
+<channel id="91373">
+<display-name> Radio Duna</display-name>
+</channel>
+<channel id="91372">
+<display-name> Radio Tiempo</display-name>
+</channel>
+<channel id="101950">
+<display-name>TNE</display-name>
+</channel>
+<channel id="102986">
+<display-name>Radio Vida Curico</display-name>
+</channel>
+<channel id="45150">
+<display-name> Gracia TV </display-name>
+</channel>
+<channel id="101932">
+<display-name>Canal ISB</display-name>
+</channel>
+<channel id="101935">
+<display-name>Nuevo Tiempo</display-name>
+</channel>
+<channel id="101951">
+<display-name>NCTV</display-name>
+</channel>
+<channel id="45155">
+<display-name> Televida HD </display-name>
+</channel>
+<channel id="83651">
+<display-name>Canal 33</display-name>
+</channel>
+<channel id="102477">
+<display-name>Extrema TV</display-name>
+</channel>
+<programme channel="103795" start="20200603000000 -0400" stop="20200603235900 -0400">
+<title lang="es">¡toi toi! Queremos invitarlos y pedirles su donación para apoyar a los artistas profesionales del ámbito de la música clásica y la danza, quienes se han visto imposibilitados de realizar labores remuneradas durante estos meses. Más detalles en ceactv.cl</title>
+<desc lang="es"/>
+</programme>
+<programme channel="103795" start="20200604000000 -0400" stop="20200604235900 -0400">
+<title lang="es">¡toi toi! Queremos invitarlos y pedirles su donación para apoyar a los artistas profesionales del ámbito de la música clásica y la danza, quienes se han visto imposibilitados de realizar labores remuneradas durante estos meses. Más detalles en ceactv.cl</title>
+<desc lang="es"/>
+</programme>
+<programme channel="103795" start="20200605000000 -0400" stop="20200605235900 -0400">
+<title lang="es">¡toi toi! Queremos invitarlos y pedirles su donación para apoyar a los artistas profesionales del ámbito de la música clásica y la danza, quienes se han visto imposibilitados de realizar labores remuneradas durante estos meses. Más detalles en ceactv.cl</title>
+<desc lang="es"/>
+</programme>
+<programme channel="101700" start="20200603000000 -0400" stop="20200603235900 -0400">
+<title lang="es">Videos Musicales</title>
+<desc lang="es">Pide tus videos musicales favoritos en www.rewindtv.cl</desc>
+</programme>
+<programme channel="101700" start="20200604000000 -0400" stop="20200604235900 -0400">
+<title lang="es">Videos Musicales</title>
+<desc lang="es">Pide tus videos musicales favoritos en www.rewindtv.cl</desc>
+</programme>
+<programme channel="101556" start="20200603060000 -0400" stop="20200603100200 -0400">
+<title lang="es">Despierta</title>
+<desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+</programme>
+<programme channel="101556" start="20200604060000 -0400" stop="20200604100200 -0400">
+<title lang="es">Despierta</title>
+<desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+</programme>
+<programme channel="101556" start="20200605060000 -0400" stop="20200605100200 -0400">
+<title lang="es">Despierta</title>
+<desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+</programme>
+<programme channel="101556" start="20200603100300 -0400" stop="20200603115400 -0400">
+<title lang="es">Descubre</title>
+<desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+</programme>
+<programme channel="101556" start="20200604100300 -0400" stop="20200604115400 -0400">
+<title lang="es">Descubre</title>
+<desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+</programme>
+<programme channel="101556" start="20200605100300 -0400" stop="20200605115400 -0400">
+<title lang="es">Descubre</title>
+<desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+</programme>
+<programme channel="101556" start="20200603115500 -0400" stop="20200603123100 -0400">
+<title lang="es">Crea</title>
+<desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+</programme>
+<programme channel="101556" start="20200604115500 -0400" stop="20200604123100 -0400">
+<title lang="es">Crea</title>
+<desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+</programme>
+<programme channel="101556" start="20200605115500 -0400" stop="20200605123100 -0400">
+<title lang="es">Crea</title>
+<desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+</programme>
+<programme channel="101556" start="20200603123200 -0400" stop="20200603142500 -0400">
+<title lang="es">Diviértete</title>
+<desc lang="es">Este segmento es el </desc>
+</programme>
+<programme channel="101556" start="20200604123200 -0400" stop="20200604142500 -0400">
+<title lang="es">Diviértete</title>
+<desc lang="es">Este segmento es el </desc>
+</programme>
+<programme channel="101556" start="20200605123200 -0400" stop="20200605142500 -0400">
+<title lang="es">Diviértete</title>
+<desc lang="es">Este segmento es el </desc>
+</programme>
+<programme channel="103357" start="20200603125700 -0400" stop="20200603000100 -0400">
+<title lang="es">Factor Retro</title>
+<desc lang="es">Lo mejor de la Musica retro por las Pantallas de TuTv con Videos y Megamezclados </desc>
+</programme>
+<programme channel="101556" start="20200603142600 -0400" stop="20200603160400 -0400">
+<title lang="es">Despierta</title>
+<desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+</programme>
+<programme channel="101556" start="20200604142600 -0400" stop="20200604160400 -0400">
+<title lang="es">Despierta</title>
+<desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+</programme>
+<programme channel="101556" start="20200605142600 -0400" stop="20200605160400 -0400">
+<title lang="es">Despierta</title>
+<desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+</programme>
+<programme channel="101556" start="20200603160500 -0400" stop="20200603175600 -0400">
+<title lang="es">Descubre</title>
+<desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+</programme>
+<programme channel="101556" start="20200604160500 -0400" stop="20200604175600 -0400">
+<title lang="es">Descubre</title>
+<desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+</programme>
+<programme channel="101556" start="20200605160500 -0400" stop="20200605175600 -0400">
+<title lang="es">Descubre</title>
+<desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+</programme>
+<programme channel="101556" start="20200603175700 -0400" stop="20200603183500 -0400">
+<title lang="es">Crea</title>
+<desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+</programme>
+<programme channel="101556" start="20200604175700 -0400" stop="20200604183500 -0400">
+<title lang="es">Crea</title>
+<desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+</programme>
+<programme channel="101556" start="20200605175700 -0400" stop="20200605183500 -0400">
+<title lang="es">Crea</title>
+<desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+</programme>
+<programme channel="101556" start="20200603183500 -0400" stop="20200603212800 -0400">
+<title lang="es">Diviértete</title>
+<desc lang="es">Este segmento es el </desc>
+</programme>
+<programme channel="101556" start="20200604183500 -0400" stop="20200604212800 -0400">
+<title lang="es">Diviértete</title>
+<desc lang="es">Este segmento es el </desc>
+</programme>
+<programme channel="101556" start="20200605183500 -0400" stop="20200605212800 -0400">
+<title lang="es">Diviértete</title>
+<desc lang="es">Este segmento es el </desc>
+</programme>
+<programme channel="101556" start="20200603212900 -0400" stop="20200603235900 -0400">
+<title lang="es">Diviértete en familia</title>
+<desc lang="es">Es un espacio para disfrutar en familia con documentales, ficciones históricas, o programas misceláneos para ser consumidos por niños y que además entreguen conocimiento.</desc>
+</programme>
+<programme channel="101556" start="20200604212900 -0400" stop="20200604235900 -0400">
+<title lang="es">Diviértete en familia</title>
+<desc lang="es">Es un espacio para disfrutar en familia con documentales, ficciones históricas, o programas misceláneos para ser consumidos por niños y que además entreguen conocimiento.</desc>
+</programme>
+<programme channel="101556" start="20200605212900 -0400" stop="20200605235900 -0400">
+<title lang="es">Diviértete en familia</title>
+<desc lang="es">Es un espacio para disfrutar en familia con documentales, ficciones históricas, o programas misceláneos para ser consumidos por niños y que además entreguen conocimiento.</desc>
+</programme>
+<programme channel="45103" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Contivisión Musica </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45103" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Contivisión Musica </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45103" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Contivisión Musica </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45105" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Cachipum TV Series</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45105" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Cachipum TV Series</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45105" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Cachipum TV Series</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45106" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Teletrak HD</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45106" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Teletrak HD</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45106" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Teletrak HD</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45108" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CDO Play</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45108" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CDO Play</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45108" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CDO Play</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45111" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Carolina TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45111" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Carolina TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45111" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Carolina TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45116" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Portal FoxMix</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45116" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Portal FoxMix</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45116" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Portal FoxMix</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45120" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Cámara de Diputados</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45120" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Cámara de Diputados</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45120" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Cámara de Diputados</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45122" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CHV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45122" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CHV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45122" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CHV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45123" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación la red</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45123" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación la red</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45123" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación la red</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45124" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Mega</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45124" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Mega</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45124" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Mega</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79045" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Meganoticias</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79045" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Meganoticias</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79045" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Meganoticias</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45125" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Senado</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45125" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Senado</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45125" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Senado</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45126" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVN</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45126" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVN</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45126" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVN</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45128" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVR</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45128" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVR</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45128" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVR</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45129" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV+</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45129" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV+</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45129" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV+</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45130" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVN 24 Horas 2</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45130" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVN 24 Horas 2</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45130" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVN 24 Horas 2</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45133" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación T13 Móvil</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45133" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación T13 Móvil</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45133" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación T13 Móvil</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45134" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ADN </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45134" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ADN </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45134" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ADN </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45135" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Futuro TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45135" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Futuro TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45135" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Futuro TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45136" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Estacion TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45136" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Estacion TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45136" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Estacion TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45137" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación AM Canal</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45137" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación AM Canal</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45137" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación AM Canal</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45138" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Antofagasta TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45138" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Antofagasta TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45138" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Antofagasta TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45139" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Arica TV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45139" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Arica TV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45139" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Arica TV </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45140" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 2 de San Antonio </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45140" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 2 de San Antonio </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45140" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 2 de San Antonio </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45141" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 2 Quellón </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45141" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 2 Quellón </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45141" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 2 Quellón </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45142" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 21 Chillán </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45142" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 21 Chillán </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45142" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 21 Chillán </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45145" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 5 Linares</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45145" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 5 Linares</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45145" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 5 Linares</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45146" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 9 Bío Bío TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45146" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 9 Bío Bío TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45146" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 9 Bío Bío TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45148" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Contivisión</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45148" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Contivisión</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45148" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Contivisión</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45150" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Gracia TV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45150" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Gracia TV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45150" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Gracia TV </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45151" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Inet TV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45151" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Inet TV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45151" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Inet TV </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45152" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ITV Patagonia </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45152" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ITV Patagonia </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45152" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ITV Patagonia </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45154" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación PinguinoTV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45154" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación PinguinoTV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45154" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación PinguinoTV </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45155" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Televida HD </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45155" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Televida HD </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45155" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Televida HD </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45156" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ThemaTV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45156" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ThemaTV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45156" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ThemaTV </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45157" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Centro</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45157" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Centro</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45157" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Centro</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45159" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVO San Vicente </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45159" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVO San Vicente </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45159" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVO San Vicente </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45160" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVRed Punta Arenas</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45160" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVRed Punta Arenas</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45160" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVRed Punta Arenas</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45161" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación UCV 3</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45161" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación UCV 3</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45161" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación UCV 3</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45162" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación UesTV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45162" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación UesTV </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45162" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación UesTV </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45163" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Universidad Autonoma TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45163" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Universidad Autonoma TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45163" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Universidad Autonoma TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45164" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal VTV Los Andes - San Felipe</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45164" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal VTV Los Andes - San Felipe</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45164" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal VTV Los Andes - San Felipe</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45165" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación VTV Viña del Mar </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45165" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación VTV Viña del Mar </title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45165" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación VTV Viña del Mar </title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="45166" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pintana TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45166" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pintana TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="45166" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pintana TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="47360" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV vconline.cl</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="47360" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV vconline.cl</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="47360" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV vconline.cl</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="47414" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV8</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="47414" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV8</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="47414" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV8</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="47415" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVU</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="47415" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVU</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="47415" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVU</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="60296" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Holvoet TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="60296" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Holvoet TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="60296" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Holvoet TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="62025" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación LTV canal</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="62025" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación LTV canal</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="62025" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación LTV canal</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="67425" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación DJ Loncho TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="67425" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación DJ Loncho TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="67425" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación DJ Loncho TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="68904" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación EMOL TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="68904" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación EMOL TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="68904" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación EMOL TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="74165" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Bio Bio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="74165" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Bio Bio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="74165" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Bio Bio TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="74297" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Fresia TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="74297" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Fresia TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="74297" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Fresia TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79021" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TALTAL TV HD Peliculas</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79021" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TALTAL TV HD Peliculas</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79021" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TALTAL TV HD Peliculas</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="75709" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Retro Plus TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="75709" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Retro Plus TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="75709" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Retro Plus TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="76271" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 10 ARTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="76271" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 10 ARTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="76271" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 10 ARTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="76351" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación En La Noticia Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="76351" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación En La Noticia Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="76351" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación En La Noticia Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="77106" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Enfoque Digital TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="77106" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Enfoque Digital TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="77106" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Enfoque Digital TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="78105" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación RUIDOS TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="78105" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación RUIDOS TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="78105" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación RUIDOS TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96787" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Riquelme TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96787" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Riquelme TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96787" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Riquelme TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96788" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Via Libre</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96788" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Via Libre</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96788" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Via Libre</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="78412" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Campus TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="78412" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Campus TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="78412" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Campus TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79022" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TALTAL TV Animacion</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79022" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TALTAL TV Animacion</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79022" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TALTAL TV Animacion</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79764" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pucon TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79764" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pucon TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79764" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pucon TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79747" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 5 Puerto Montt</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79747" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 5 Puerto Montt</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79747" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 5 Puerto Montt</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79749" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal Chilote</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79749" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal Chilote</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79749" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal Chilote</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79750" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Cappissima Multimedial TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79750" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Cappissima Multimedial TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79750" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Cappissima Multimedial TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79751" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 11 TV Aysen</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79751" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 11 TV Aysen</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79751" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 11 TV Aysen</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79752" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Sextavision</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79752" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Sextavision</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79752" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Sextavision</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79753" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Ufrovision</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79753" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Ufrovision</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79753" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Ufrovision</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79754" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Atacama TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79754" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Atacama TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79754" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Atacama TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79755" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación UMAG TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79755" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación UMAG TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79755" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación UMAG TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79756" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación UTV San Clemente</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79756" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación UTV San Clemente</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79756" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación UTV San Clemente</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79757" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Valparaiso Sporting</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79757" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Valparaiso Sporting</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79757" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Valparaiso Sporting</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79759" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Santa Maria TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79759" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Santa Maria TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79759" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Santa Maria TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79760" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV2 Choapa</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79760" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV2 Choapa</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79760" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV2 Choapa</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79761" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Girovisual TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79761" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Girovisual TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79761" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Girovisual TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79762" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Teleangol Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79762" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Teleangol Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79762" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Teleangol Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79763" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV4</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79763" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV4</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79763" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV4</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79765" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Decima TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79765" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Decima TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79765" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Decima TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79766" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Rocco TV 4</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79766" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Rocco TV 4</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79766" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Rocco TV 4</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="79801" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación AncoaTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79801" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación AncoaTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="79801" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación AncoaTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="80098" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Maxima FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="80098" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Maxima FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="80098" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Maxima FM</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="80111" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Alegria TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="80111" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Alegria TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="80111" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Alegria TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="81741" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81741" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81741" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Chile</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="81736" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal Survisión Alerce</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81736" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal Survisión Alerce</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81736" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal Survisión Alerce</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="81742" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Maulinos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81742" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Maulinos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81742" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Maulinos</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="81743" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 11 de Cabrero</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81743" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 11 de Cabrero</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="81743" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 11 de Cabrero</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83635" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Estudio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83635" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Estudio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83635" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Estudio TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83636" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ETB</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83636" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ETB</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83636" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ETB</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83637" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Telesur</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83637" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Telesur</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83637" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Telesur</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83638" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CGTN Español</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83638" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CGTN Español</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83638" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CGTN Español</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83639" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación France 24</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83639" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación France 24</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83639" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación France 24</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83641" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación DW Español</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83641" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación DW Español</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83641" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación DW Español</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83642" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Rai Premium</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83642" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Rai Premium</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83642" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Rai Premium</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83643" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Arirang</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83643" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Arirang</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83643" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Arirang</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83644" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación RTVE24</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83644" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación RTVE24</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83644" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación RTVE24</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83645" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación RTVE1</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83645" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación RTVE1</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83645" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación RTVE1</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83646" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Zee Mundo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83646" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Zee Mundo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83646" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Zee Mundo</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83647" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Marti</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83647" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Marti</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83647" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Marti</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83648" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal IPE</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83648" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal IPE</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83648" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal IPE</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83650" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Desierto TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83650" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Desierto TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83650" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Desierto TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83651" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 33</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83651" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 33</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83651" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 33</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83832" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pauta</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83832" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pauta</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83832" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pauta</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="83961" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal Costa TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83961" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal Costa TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="83961" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal Costa TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84016" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación VLTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84016" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación VLTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84016" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación VLTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84048" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVN 24 Horas</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84048" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVN 24 Horas</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84048" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVN 24 Horas</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84121" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Quinta TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84121" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Quinta TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84121" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Quinta TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84122" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Temuco TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84122" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Temuco TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84122" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Temuco TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84585" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Soberania Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84585" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Soberania Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84585" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Soberania Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84845" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Turf Movil</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84845" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Turf Movil</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84845" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Turf Movil</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84923" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV El Central</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84923" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV El Central</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84923" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV El Central</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="84989" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 74 TeVe</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84989" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 74 TeVe</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="84989" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 74 TeVe</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="90632" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Garage TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="90632" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Garage TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="90632" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Garage TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="90569" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Tendencias TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="90569" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Tendencias TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="90569" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Tendencias TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="90570" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Salud</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="90570" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Salud</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="90570" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Salud</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91372" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Tiempo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91372" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Tiempo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91372" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Tiempo</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91373" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Duna</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91373" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Duna</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91373" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Duna</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91376" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación AE Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91376" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación AE Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91376" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación AE Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91378" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Polar</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91378" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Polar</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91378" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Polar</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91379" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Romantica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91379" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Romantica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91379" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Romantica</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91380" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Infinita</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91380" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Infinita</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91380" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Infinita</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91381" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Agricultura</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91381" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Agricultura</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91381" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Agricultura</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91382" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Cooperativa</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91382" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Cooperativa</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91382" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Cooperativa</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="91383" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Candela</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91383" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Candela</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="91383" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Candela</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="92611" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pura Noticia</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="92611" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pura Noticia</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="92611" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pura Noticia</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="93249" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CNN Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="93249" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CNN Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="93249" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CNN Chile</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="93284" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Poder Judicial</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="93284" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Poder Judicial</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="93284" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Poder Judicial</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="93920" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Boing</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="93920" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Boing</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="93920" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Boing</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="94106" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Nativa TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94106" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Nativa TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94106" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Nativa TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="94188" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Puerta Norte</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94188" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Puerta Norte</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94188" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Puerta Norte</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="94606" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Maulina FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94606" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Maulina FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94606" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Maulina FM</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="94803" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Zona Play Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94803" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Zona Play Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="94803" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Zona Play Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95116" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Campo Abierto TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95116" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Campo Abierto TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95116" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Campo Abierto TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95117" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TU Canal TV Colina</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95117" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TU Canal TV Colina</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95117" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TU Canal TV Colina</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95360" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Beat TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95360" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Beat TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95360" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Beat TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95361" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Camila TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95361" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Camila TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95361" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Camila TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95385" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TVR Canal 11</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95385" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TVR Canal 11</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95385" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TVR Canal 11</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95386" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación 13c</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95386" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación 13c</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95386" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación 13c</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104280" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Rec TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104280" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Rec TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104280" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Rec TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95387" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pudahuel FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95387" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pudahuel FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95387" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pudahuel FM</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95388" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Favorita</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95388" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Favorita</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95388" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Favorita</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95389" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Futura TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95389" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Futura TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95389" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Futura TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95391" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Rancagua</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95391" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Rancagua</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95391" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Rancagua</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95519" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Rec Online</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95519" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Rec Online</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95519" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Rec Online</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="95520" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Mix 247 TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95520" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Mix 247 TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="95520" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Mix 247 TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96261" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación DW Deutsch</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96261" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación DW Deutsch</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96261" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación DW Deutsch</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96280" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TOP Latino TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96280" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TOP Latino TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96280" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TOP Latino TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96282" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Publica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96282" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Publica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96282" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Publica</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96318" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Buin Somos Todos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96318" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Buin Somos Todos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96318" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Buin Somos Todos</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96323" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Teletón TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96323" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Teletón TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96323" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Teletón TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96666" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Galicia America</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96666" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Galicia America</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96666" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Galicia America</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96696" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Genial TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96696" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Genial TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96696" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Genial TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96698" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación InterRadio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96698" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación InterRadio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96698" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación InterRadio TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96699" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Orbit TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96699" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Orbit TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96699" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Orbit TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96700" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Telemusica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96700" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Telemusica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96700" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Telemusica</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96701" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Frecuencia Musical TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96701" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Frecuencia Musical TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96701" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Frecuencia Musical TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96702" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TecTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96702" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TecTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96702" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TecTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96703" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Interamericana TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96703" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Interamericana TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96703" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Interamericana TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96706" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación El Conquistador TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96706" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación El Conquistador TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96706" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación El Conquistador TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96811" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación U Los Lagos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96811" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación U Los Lagos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96811" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación U Los Lagos</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96812" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Arab TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96812" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Arab TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96812" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Arab TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96814" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal 13</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96814" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal 13</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96814" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal 13</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96907" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación VoxPopuli Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96907" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación VoxPopuli Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96907" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación VoxPopuli Chile</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="96977" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Antena 3 Internacional</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96977" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Antena 3 Internacional</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="96977" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Antena 3 Internacional</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97299" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación On Radio Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97299" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación On Radio Chile</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97299" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación On Radio Chile</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97300" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación On Radio Kpop</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97300" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación On Radio Kpop</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97300" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación On Radio Kpop</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97598" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Madero TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97598" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Madero TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97598" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Madero TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97652" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ClickTv (Respaldo)</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97652" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ClickTv (Respaldo)</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97652" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ClickTv (Respaldo)</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97664" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación UMAG TV 2</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97664" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación UMAG TV 2</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97664" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación UMAG TV 2</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97665" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Tele 8 Illapel</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97665" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Tele 8 Illapel</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97665" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Tele 8 Illapel</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97666" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal Latino 54</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97666" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal Latino 54</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97666" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal Latino 54</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97667" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Preludio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97667" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Preludio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97667" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Preludio TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97668" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Las Nieves</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97668" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Las Nieves</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97668" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Las Nieves</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97669" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CDO</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97669" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CDO</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97669" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CDO</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97670" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Hoy</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97670" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Hoy</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97670" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Hoy</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97671" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Chiloe</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97671" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Chiloe</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97671" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Chiloe</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97672" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Fantasia TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97672" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Fantasia TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97672" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Fantasia TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97673" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Presidente Ibañez</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97673" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Presidente Ibañez</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97673" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Presidente Ibañez</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97674" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio X</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97674" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio X</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97674" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio X</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97675" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Osorno TV+</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97675" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Osorno TV+</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97675" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Osorno TV+</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="97807" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Control.VG TV (desde las 00:30 hrs)</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97807" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Control.VG TV (desde las 00:30 hrs)</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="97807" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Control.VG TV (desde las 00:30 hrs)</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98186" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Touch</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98186" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Touch</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98186" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Touch</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98217" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Ibiza Global TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98217" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Ibiza Global TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98217" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Ibiza Global TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98218" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CCP Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98218" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CCP Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98218" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CCP Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98219" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Más</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98219" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Más</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98219" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Más</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98866" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Cosmos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98866" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Cosmos</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98866" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Cosmos</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98872" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Mi Radio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98872" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Mi Radio TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98872" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Mi Radio TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98873" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Actitud</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98873" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Actitud</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98873" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Actitud</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98881" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación HiperTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98881" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación HiperTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98881" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación HiperTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98883" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal de la Costa</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98883" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal de la Costa</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98883" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal de la Costa</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98915" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CEAC TV (Respaldo)</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98915" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CEAC TV (Respaldo)</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98915" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CEAC TV (Respaldo)</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98929" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación RadioTV.pro</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98929" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación RadioTV.pro</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98929" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación RadioTV.pro</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98981" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ClickTv</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98981" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ClickTv</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98981" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ClickTv</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="98988" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación La Popular TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98988" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación La Popular TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="98988" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación La Popular TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="99469" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Celula Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="99469" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Celula Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="99469" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Celula Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="99563" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Arcatel</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="99563" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Arcatel</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="99563" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Arcatel</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100379" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Chiloe Red 25</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100379" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Chiloe Red 25</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100379" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Chiloe Red 25</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100529" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Ritmo FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100529" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Ritmo FM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100529" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Ritmo FM</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100528" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación FM Pulso</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100528" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación FM Pulso</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100528" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación FM Pulso</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100527" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Universal</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100527" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Universal</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100527" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Universal</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100526" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Sabor Tropical</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100526" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Sabor Tropical</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100526" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Sabor Tropical</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100525" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Orocoipo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100525" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Orocoipo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100525" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Orocoipo</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100524" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Fiessta</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100524" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Fiessta</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100524" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Fiessta</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100523" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Zeta</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100523" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Zeta</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100523" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Zeta</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="100762" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Natural TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100762" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Natural TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="100762" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Natural TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101231" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ChocolateFM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101231" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ChocolateFM</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101231" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ChocolateFM</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101462" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Mi TV Televisión Clásica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101462" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Mi TV Televisión Clásica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101462" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Mi TV Televisión Clásica</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101463" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación WOW TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101463" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación WOW TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101463" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación WOW TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101692" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CinePlus</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101692" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CinePlus</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101692" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CinePlus</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101693" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Retro TV Palmares</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101693" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Retro TV Palmares</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101693" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Retro TV Palmares</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101694" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pantalla Clasica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101694" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pantalla Clasica</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101694" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pantalla Clasica</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101839" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Cuarentena</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101839" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Cuarentena</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101839" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Cuarentena</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101950" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TNE</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101950" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TNE</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101950" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TNE</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101853" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Telecanal Santa Cruz</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101853" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Telecanal Santa Cruz</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101853" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Telecanal Santa Cruz</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101951" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación NCTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101951" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación NCTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101951" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación NCTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101932" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal ISB</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101932" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal ISB</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101932" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal ISB</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101935" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Nuevo Tiempo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101935" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Nuevo Tiempo</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101935" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Nuevo Tiempo</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="101997" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Cubavisión</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101997" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Cubavisión</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="101997" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Cubavisión</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102019" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Restaurando Vidas TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102019" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Restaurando Vidas TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102019" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Restaurando Vidas TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102073" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación El Sembrador</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102073" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación El Sembrador</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102073" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación El Sembrador</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102477" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Extrema TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102477" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Extrema TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102477" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Extrema TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102481" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Canal Capital</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102481" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Canal Capital</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102481" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Canal Capital</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102483" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Net TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102483" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Net TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102483" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Net TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102498" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Toonizaki</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102498" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Toonizaki</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102498" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Toonizaki</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102522" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación GINX e-Sports</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102522" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación GINX e-Sports</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102522" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación GINX e-Sports</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102525" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Trace Latina</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102525" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Trace Latina</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102525" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Trace Latina</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102526" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Trace Urban</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102526" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Trace Urban</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102526" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Trace Urban</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102528" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Exa TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102528" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Exa TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102528" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Exa TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102623" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación El 3 de Conce</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102623" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación El 3 de Conce</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102623" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación El 3 de Conce</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102651" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Pichilemu TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102651" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Pichilemu TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102651" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Pichilemu TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102655" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Dreiko TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102655" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Dreiko TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102655" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Dreiko TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102656" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Red Fueguina Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102656" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Red Fueguina Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102656" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Red Fueguina Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102737" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TXS Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102737" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TXS Radio</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102737" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TXS Radio</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102985" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Exprezion TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102985" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Exprezion TV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102985" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Exprezion TV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="102986" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Radio Vida Curico</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102986" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Radio Vida Curico</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="102986" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Radio Vida Curico</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="103056" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Trace Toca</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="103056" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Trace Toca</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="103056" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Trace Toca</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="103351" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación TV Elqui</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="103351" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación TV Elqui</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="103351" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación TV Elqui</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="103801" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Telecanal Talca</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="103801" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Telecanal Talca</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="103801" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Telecanal Talca</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104101" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Retro Music Television</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104101" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Retro Music Television</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104101" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Retro Music Television</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104432" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación ACS Network</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104432" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación ACS Network</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104432" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación ACS Network</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104433" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Telered</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104433" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Telered</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104433" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Telered</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104441" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación La Perla del Norte</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104441" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación La Perla del Norte</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104441" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación La Perla del Norte</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104452" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación CSTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104452" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación CSTV</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104452" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación CSTV</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104767" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Frecuencia Musical TV 2</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104767" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Frecuencia Musical TV 2</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104767" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Frecuencia Musical TV 2</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+<programme channel="104809" start="20200603000000 -0400" stop="20200603235959 -0400">
+<title lang="es">Programación Tele2 Web</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104809" start="20200604000000 -0400" stop="20200604235959 -0400">
+<title lang="es">Programación Tele2 Web</title>
+<desc lang="es">[más info en www.m3u.cl]</desc>
+</programme>
+<programme channel="104809" start="20200605000000 -0400" stop="20200605235959 -0400">
+<title lang="es">Programación Tele2 Web</title>
+<desc lang="es">[Ayúdanos a completar la programación de este canal en www.m3u.cl/programacion.php]</desc>
+</programme>
+</tv>
